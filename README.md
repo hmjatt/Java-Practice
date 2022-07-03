@@ -3,6 +3,13 @@ This repo contains projects/code snippets to practice Java
 
 
 
+## Details About This Repository
+
+This project is created to practice Java :coffee: and topics that I learn throughout my journey by following various sources. Creating numerous projects/code snippets helps me to solidify my knowledge of specific topic. I am using JDK 17 :package: because it's the latest LTS release for Java SE along with Eclipse IDE :waning_crescent_moon: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :comet:
+
+
+
+
 ## Repository Structure
 
     .
