@@ -15,15 +15,20 @@ This repo contains projects/code snippets to practice Java
 
 ## Topics that I have learned so far
 
-1. Variables
+1. Setting Up Eclipse IDE and Tips!!!
+
+	- [Youtube(Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
+
+2. Variables
+
 	- A placeholder for a value that behaves as the value it contains
 	- Resources
 		- [Oracle (Official Java Tutorial)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 		- [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
 		- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
 
-2. Swap Two Variables
-	-
+3. Swap Two Variables
+	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
 ## Links to content that helped me with this project
 
