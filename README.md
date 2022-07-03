@@ -5,10 +5,10 @@ This repo contains projects/code snippets to practice Java
 
     .
     ├── Project Name              # Java project folder
-	│   ├── src                   # Source files folder
-	│	│   └── SourceCode.java   # Java source code file
-	│	├── .classpath            #	User environment variables
-	│	└── .project              # for saving/loading projects into the Eclipse IDE
+    │   ├── src                   # Source files folder
+    │   │   └── SourceCode.java   # Java source code file
+    │   ├── .classpath            # User environment variables
+    │   └── .project              # for saving/loading projects into the Eclipse IDE
     ├── .gitignore
     ├── LICENSE
     └── README.md
