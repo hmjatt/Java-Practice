@@ -56,7 +56,9 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 #### Quote
 
-    “If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.”
+    “If you always put limit on everything you do, physical or anything else.
+	It will spread into your work and into your life. There are no limits.
+	There are only plateaus, and you must not stay there, you must go beyond them.”
     — Bruce Lee
 >  	
 > :fire: :milky_way: :zap:
