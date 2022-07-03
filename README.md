@@ -3,7 +3,7 @@ This repo contains projects/code snippets to practice Java
 
 
 
-## Details About This Repository
+## Details About This Repository :computer:
 
 This project is created to practice Java :coffee: and topics that I learn throughout my journey by following various sources. Creating numerous projects/code snippets helps me to solidify my knowledge of specific topic. I am using JDK 17 :package: because it's the latest LTS release for Java SE along with Eclipse IDE :waning_crescent_moon: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :comet:
 
@@ -41,6 +41,8 @@ This project is created to practice Java :coffee: and topics that I learn throug
 		- [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
 
 		- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
+	
+	<!-- ![This is an image]() -->
 
 
 3. Swap Two Variables
@@ -48,10 +50,13 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
+	<!-- ![This is an image]() -->
 
 
 
-## Links to content that helped me with this project
+#### Quote
 
-1. YouTube
-	- [Java Tutorial](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
+    “If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them.”
+    — Bruce Lee
+>  	
+> :fire: :milky_way: :zap:
