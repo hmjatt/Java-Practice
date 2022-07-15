@@ -50,14 +50,12 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
-	<!-- ![This is an image]() -->
 
-<!-- 3. Acc
-	- Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
+3. Accept User Input
+	- Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
 
-	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
+	- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
 
-	![This is an image]() -->
 
 
 
