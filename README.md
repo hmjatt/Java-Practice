@@ -52,6 +52,13 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 	<!-- ![This is an image]() -->
 
+<!-- 3. Acc
+	- Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
+
+	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
+
+	![This is an image]() -->
+
 
 
 #### Quote
