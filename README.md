@@ -56,7 +56,22 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 	- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
 
+4. Arithmetic Expressions
+	- Perform basic math operations on **Java Variables**
 
+	- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
+ 
+		expression = operands & operators
+		operands =  values, variables, numbers, quantity
+		operators = + - * / % 
+		+ ==> Addition
+		- ==> Subtraction
+		* ==> Multiplication
+		/ ==> Division
+		% ==> Modulus(Remainder of the two numbers after division) 
+		-- ==> Increment(Increase value of variable by 1)
+		++ ==> Decrement(Decrease value of variable by 1)
+		 
 
 
 #### Quote
