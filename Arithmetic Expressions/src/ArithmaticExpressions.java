@@ -1,7 +1,18 @@
 
 public class ArithmaticExpressions {
 	public static void main(String[] args) {
-
+		/* 
+		 *		expression =     operands & operators
+		 *		operands =  values, variables, numbers, quantity
+		 *		operators = + - * / % 
+		 *		+ ==> Addition
+		 *		- ==> Subtraction
+		 *		* ==> Multiplication
+		 *		/ ==> Division
+		 *		% ==> Modulus(Remainder of the two numbers after division) 
+		 *		-- ==> Increment(Increase value of variable by 1)
+		 *		++ ==> Decrement(Decrease value of variable by 1)
+		 */
 		
 		int friends = 10;
 		
