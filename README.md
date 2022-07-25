@@ -1,14 +1,10 @@
 # Java-Practice
+
 This repo contains projects/code snippets to practice Java
-
-
 
 ## Details About This Repository :computer:
 
 This project is created to practice Java :coffee: and topics that I learn throughout my journey by following various sources. Creating numerous projects/code snippets helps me to solidify my knowledge of specific topic. I am using JDK 17 :package: because it's the latest LTS release for Java SE along with Eclipse IDE :waning_crescent_moon: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :comet:
-
-
-
 
 ## Repository Structure
 
@@ -22,63 +18,63 @@ This project is created to practice Java :coffee: and topics that I learn throug
     ├── LICENSE
     └── README.md
 
-
-
 ## Topics that I have learned so far
 
 1. Setting Up Eclipse IDE and Tips!!!
 
-	- [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
-
+    - [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
 
 2. Variables
 
-	- A placeholder for a value that behaves as the value it contains.
+    - A placeholder for a value that behaves as the value it contains.
 
-	- Resources
-		- [Oracle (Official Java Tutorial)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
+    - Resources
 
-		- [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
+        - [Oracle (Official Java Tutorial)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 
-		- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
-	
-	<!-- ![This is an image]() -->
+        - [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
 
+        - [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
+
+    <!-- ![This is an image]() -->
 
 3. Swap Two Variables
-	- Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
 
-	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
+    - Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
 
+    - [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
-3. Accept User Input
-	- Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
+4. Accept User Input
 
-	- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
+    - Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
 
-4. Arithmetic Expressions
-	- Perform basic math operations on **Java Variables**
+    - [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
 
-	- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
- 
-		expression = operands & operators
-		operands =  values, variables, numbers, quantity
-		operators = + - * / % 
-		+ ==> Addition
-		- ==> Subtraction
-		* ==> Multiplication
-		/ ==> Division
-		% ==> Modulus(Remainder of the two numbers after division) 
-		-- ==> Increment(Increase value of variable by 1)
-		++ ==> Decrement(Decrease value of variable by 1)
-		 
+5. Arithmetic Expressions
 
+    - Perform basic math operations on **Java Variables**
+
+    - [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
+
+        expression = operands & operators
+        operands = values, variables, numbers, quantity
+        operators = + - \* / %
+
+        - ==> Addition
+
+        * ==> Subtraction
+
+        - ==> Multiplication
+          / ==> Division
+          % ==> Modulus(Remainder of the two numbers after division)
+          -- ==> Increment(Increase value of variable by 1)
+          ++ ==> Decrement(Decrease value of variable by 1)
 
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
-	It will spread into your work and into your life. There are no limits.
-	There are only plateaus, and you must not stay there, you must go beyond them.”
+    It will spread into your work and into your life. There are no limits.
+    There are only plateaus, and you must not stay there, you must go beyond them.”
     — Bruce Lee
->  	
+
 > :fire: :milky_way: :zap:
