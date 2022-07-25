@@ -58,7 +58,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
         expression = operands & operators
         operands = values, variables, numbers, quantity
-        operators = + - \* / %
+        operators = + - * / %
 
         - ==> Addition
 
