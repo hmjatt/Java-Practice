@@ -20,11 +20,11 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 ## Topics that I have learned so far
 
-1. Setting Up Eclipse IDE and Tips!!!
+1. Setting Up Eclipse IDE and Tips!!! ☕
 
     - [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
 
-2. Variables
+2. Variables ✘
 
     - A placeholder for a value that behaves as the value it contains.
 
@@ -38,19 +38,19 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
     <!-- ![This is an image]() -->
 
-3. Swap Two Variables
+3. Swap Two Variables 🥤
 
     - Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
 
     - [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
-4. Accept User Input
+4. Accept User Input ⌨️
 
     - Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
 
     - [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
 
-5. Arithmetic Expressions
+5. Arithmetic Expressions 🧮
 
     - Perform basic math operations on **Java Variables**
 
@@ -70,9 +70,11 @@ This project is created to practice Java :coffee: and topics that I learn throug
           -- ==> Increment(Increase value of variable by 1)
           ++ ==> Decrement(Decrease value of variable by 1)
 
-6. GUI Intro
+6. GUI Intro ⭐
 
 	- Show a **basic dialog box** and output the values using `JOptionPane` class
+
+	- [YouTube (Java GUI intro)](https://www.youtube.com/watch?v=rWCnZKF-U3Q&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=6)
 
 #### Quote
 
