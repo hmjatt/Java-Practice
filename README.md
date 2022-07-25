@@ -70,6 +70,10 @@ This project is created to practice Java :coffee: and topics that I learn throug
           -- ==> Increment(Increase value of variable by 1)
           ++ ==> Decrement(Decrease value of variable by 1)
 
+6. GUI Intro
+
+	- Show a **basic dialog box** and output the values using `JOptionPane` class
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
