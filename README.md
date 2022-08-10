@@ -20,73 +20,81 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 ## Topics that I have learned so far
 
-1. Setting Up Eclipse IDE and Tips!!! ☕
+### 1. Setting Up Eclipse IDE and Tips!!! ☕
 
-    - [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
+- [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
 
+<hr>
 
-2. Variables ✘
+### 2. Variables ✘
 
-    - A placeholder for a value that behaves as the value it contains.
+- A placeholder for a value that behaves as the value it contains.
 
-    - Resources
+- Resources
 
-        - [Oracle (Official Java Tutorial)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
+	- [Oracle (Official Java Tutorial)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 
-        - [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
+	- [Oracle (Official Java Language Specification)](https://docs.oracle.com/javase/specs/jls/se17/html/jls-4.html)
 
-        - [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
+	- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=so1iUWaLmKA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=2)
 
+<hr>
 
-3. Swap Two Variables 🥤
+### 3. Swap Two Variables 🥤
 
-    - Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
+- Create a temporary variable to store one of the variables and used this `temp` variable to swap two variables.
 
-    - [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
+- [YouTube (Variables in Java)](https://www.youtube.com/watch?v=G0mFJUFMzjs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=3)
 
+<hr>
 
-4. Accept User Input ⌨️
+### 4. Accept User Input ⌨️
 
-    - Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
+- Import **Scanner** class from Java Utility Package Library. Use methods created using **scanner** class to get input from user and output the result in the console.
 
-    - [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
+- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=4)
 
+<hr>
 
-5. Arithmetic Expressions 🧮
+### 5. Arithmetic Expressions 🧮
 
-    - Perform basic math operations on **Java Variables**
+- Perform basic math operations on **Java Variables**
 
-    - [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
+- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
 
-		```
-		expression = operands & operators
-		operands = values, variables, numbers, quantity
-		operators = + - * / %
+	```
+	expression = operands & operators
+	operands = values, variables, numbers, quantity
+	operators = + - * / %
 
-		+ ==> Addition
-		- ==> Subtraction
-		* ==> Multiplication
-		/ ==> Division
-		% ==> Modulus(Remainder of the two numbers after division)
-		-- ==> Increment(Increase value of variable by 1)
-		++ ==> Decrement(Decrease value of variable by 1)
-		
-		```
+	+ ==> Addition
+	- ==> Subtraction
+	* ==> Multiplication
+	/ ==> Division
+	% ==> Modulus(Remainder of the two numbers after division)
+	-- ==> Increment(Increase value of variable by 1)
+	++ ==> Decrement(Decrease value of variable by 1)
 
-6. GUI Intro ⭐
+	```
+<hr>
 
-	- Show a **basic dialog box** and output the values using `JOptionPane` class
+### 6. GUI Intro ⭐
 
-	- [YouTube (Java GUI intro)](https://www.youtube.com/watch?v=rWCnZKF-U3Q&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=6)
+- Show a **basic dialog box** and output the values using `JOptionPane` class
 
+- [YouTube (Java GUI intro)](https://www.youtube.com/watch?v=rWCnZKF-U3Q&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=6)
 
-7. Java Math Class 📐
+<hr>
 
-	- Learnt about some useful **methods** of `Math` class.
+### 7. Java Math Class 📐
 
-	- Create a program that finds **Hypotenuse** of a *Triangle*.
+- Learnt about some useful **methods** of `Math` class.
 
-	- [YouTube (Java Math Class)](https://www.youtube.com/watch?v=w0VTlSOXBs8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=7)
+- Create a program that finds **Hypotenuse** of a *Triangle*.
+
+- [YouTube (Java Math Class)](https://www.youtube.com/watch?v=w0VTlSOXBs8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=7)
+
+<hr>
 
 #### Quote
 
