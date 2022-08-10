@@ -24,7 +24,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
     - [Youtube (Java Tutorial for beginners)](https://www.youtube.com/watch?v=NBIUbTddde4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=1)
 
-	
+
 2. Variables ✘
 
     - A placeholder for a value that behaves as the value it contains.
@@ -85,6 +85,8 @@ This project is created to practice Java :coffee: and topics that I learn throug
 	- Learnt about some useful **methods** of `Math` class.
 
 	- Create a program that finds **Hypotenuse** of a *Triangle*.
+
+	- [YouTube (Java Math Class)](https://www.youtube.com/watch?v=w0VTlSOXBs8&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=7)
 
 #### Quote
 
