@@ -96,6 +96,14 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 8. Java random numbers 🎲
+
+- Create a program that generates *random values* for `integers`, `double`, `boolean` values.
+
+- [YouTube (Java random numbers)](https://www.youtube.com/watch?v=VMZLPl16P5c&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=8)
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
