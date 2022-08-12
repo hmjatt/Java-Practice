@@ -116,7 +116,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 		int age = 75;
 		
 		if(age==75) {
-			System.out.println("Ok Boomer!");
+			System.out.println("You are an old timer!");
 		}
 		else if(age>=18) {
 			System.out.println("You are an adult!");
