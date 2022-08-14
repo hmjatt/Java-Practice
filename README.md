@@ -108,7 +108,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - Create a program to practice `if`, `else if` and `else ` statements in Java.
 
-- [YouTube (Java random numbers)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=9)
+- [YouTube (Java if statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=9)
 
 ```
 // if statement = performs a block of code if it's condition evaluates to be true
@@ -127,6 +127,38 @@ This project is created to practice Java :coffee: and topics that I learn throug
 		else {
 			System.out.println("You are not an adult!");
 		}
+```
+
+<hr>
+
+### 10. Java switch statements ⬇
+
+- Create a program to practice `switch` statements in Java.
+
+- [YouTube (Java switch statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=10)
+
+```
+// switch = statement that allows a variable to be tested for equality against a list of values
+			
+	String day = "Friday";
+
+	switch(day) {
+		case "Sunday": System.out.println("It is Sunday!");
+		break;
+		case "Monday": System.out.println("It is Monday!");
+		break;
+		case "Tuesday": System.out.println("It is Tuesday!");
+		break;
+		case "Wednesday": System.out.println("It is Wednesday!");
+		break;
+		case "Thursday": System.out.println("It is Thursday!");
+		break;
+		case "Friday": System.out.println("It is Friday!");
+		break;
+		case "Saturday": System.out.println("It is Saturday!");
+		break;
+		default: System.out.println("That is not a day!");
+	}
 ```
 
 <hr>
