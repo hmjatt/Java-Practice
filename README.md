@@ -60,7 +60,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - Perform basic math operations on **Java Variables**
 
-- [YouTube (How to accept user input in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
+- [YouTube (Arithmetic Expressions in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
 
 	```
 	expression = operands & operators
@@ -167,7 +167,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - Create a program to practice `logical operators` statements in Java and how to create a more specific expressions by combining multiple `logical operators`.
 
-- [YouTube (Java switch statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=11)
+- [YouTube (Java logical operators)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=11)
 
 ```
 //	logical operators = used to connect two or more expressions
@@ -175,6 +175,24 @@ This project is created to practice Java :coffee: and topics that I learn throug
 	&& = (AND) both conditions must be true
  	|| = (OR) either condition must be true
 	! = (NOT) reverses boolean value of condition
+```
+
+<hr>
+
+### 12. Java while loop 🔄
+
+- Create a program to practice `while loop` in Java.
+
+- [YouTube (Java while loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=12)
+
+```
+// while loop = executes a block of code as long as a it's condition remains true
+
+	//while `name field` is *blank* keep asking user for their name
+	while(name.isBlank()) {
+		System.out.print("Enter your name: ");
+		name = scanner.nextLine();
+	}
 ```
 
 <hr>
