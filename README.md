@@ -163,6 +163,22 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 11. Java logical operators ❗ (AND OR NOT)
+
+- Create a program to practice `logical operators` statements in Java and how to create a more specific expressions by combining multiple `logical operators`.
+
+- [YouTube (Java switch statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=11)
+
+```
+//	logical operators = used to connect two or more expressions
+
+	&& = (AND) both conditions must be true
+ 	|| = (OR) either condition must be true
+	! = (NOT) reverses boolean value of condition
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
