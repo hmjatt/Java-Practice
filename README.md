@@ -181,9 +181,26 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 ### 12. Java while loop 🔄
 
-- Create a program to practice `while loop` in Java.
+- Create a program to practice `for loop` in Java.
 
 - [YouTube (Java while loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=12)
+
+```
+// for loop = executes a block of code a limited amount of times
+		
+	for(int i=10; i>=0; i--) {
+		System.out.println(i);
+	}
+	System.out.println("Happy new year!");
+```
+
+<hr>
+
+### 13. Java for loop ➰
+
+- Create a program to practice `while loop` in Java.
+
+- [YouTube (Java for loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=13)
 
 ```
 // while loop = executes a block of code as long as a it's condition remains true
