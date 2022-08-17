@@ -214,6 +214,37 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 14. Java nested loops ➿
+
+- Create a program to practice `nested loops` in Java.
+
+- [YouTube (Java for loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=14)
+
+```
+// nested loops = a loop inside of a loop
+		
+	Scanner scanner = new Scanner(System.in);
+	int rows;
+	int columns;
+	String symbol = "";
+	
+	System.out.println("Enter # of rows: ");
+	rows = scanner.nextInt();
+	System.out.println("Enter # of columns: ");
+	columns = scanner.nextInt();
+	System.out.println("Enter symbol to use: ");
+	symbol = scanner.next();
+	
+	for(int i=1; i<=rows; i++) {
+		System.out.println();
+		for(int j=1; j<=columns;j++) {
+			System.out.print(symbol);
+		}
+	}
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
