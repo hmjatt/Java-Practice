@@ -218,7 +218,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - Create a program to practice `nested loops` in Java.
 
-- [YouTube (Java for loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=14)
+- [YouTube (Java nested loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=14)
 
 ```
 // nested loops = a loop inside of a loop
