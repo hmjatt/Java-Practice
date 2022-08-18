@@ -245,6 +245,24 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 15. Java arrays 🚗
+
+- Create a program to implement `Arrays` in Java.
+
+- [YouTube (Java arrays)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=15)
+
+```
+// array = used to store multiple values within a single variable
+	
+	String[] cars = new String[3];
+	
+	cars[0] = "Camaro";
+	cars[1] = "Corvette";
+	cars[2] = "Tesla";
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
