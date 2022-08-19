@@ -265,7 +265,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 ### 15. Java 2D arrays 🚚
 
-- Create a program to implement `Arrays` in Java.
+- Create a program to implement `2D Arrays` in Java.
 
 - [YouTube (Java 2D arrays)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=16)
 
