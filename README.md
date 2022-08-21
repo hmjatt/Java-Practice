@@ -320,6 +320,36 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 18. Java wrapper classes 🎁
+
+- Create a program to learn about `Wrapper Classes` in Java.
+
+- [YouTube (Java wrapper classes)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=18)
+
+```
+// wrapper class = 	provides a way to use primitive data types as reference data types
+//					reference data types contain useful methods
+//					can be used with collections (ex.ArrayList)
+	
+	//primitive		//wrapper
+	//---------		//-------
+	// boolean		Boolean
+	// char			Character
+	// int			Integer
+	// double		Double
+	
+	// autoboxing = the automatic conversion that the Java compiler makes between the primitive types and their corresponding object wrapper classes
+	// unboxing = the reverse of autoboxing. Automatic conversion of wrapper class to primitive
+	
+	Boolean a = true;
+	Character b = '@';
+	Integer c = 123;
+	Double d = 3.14;
+
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
