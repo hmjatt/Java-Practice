@@ -350,6 +350,33 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 19. Java ArrayList 🧾
+
+- Create a program to implement `Java ArrayList` in Java.
+
+- [YouTube (Java ArrayList)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=19)
+
+```
+// ArrayList = 	a resizable array. 
+	//				Elements can be added and removed after compilation phase
+	//				store reference data types
+	
+	ArrayList<String> food = new ArrayList<String>();
+	
+	food.add("pizza");
+	food.add("hamburger");
+	food.add("hotdog");
+	
+	//food.set(0, "sushi");
+	//food.remove(2);
+	//food.clear();
+	
+	for(int i=0; i<food.size(); i++) {
+		System.out.println(food.get(i));
+
+```
+
+<hr>
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
