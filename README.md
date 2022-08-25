@@ -437,7 +437,10 @@ This project is created to practice Java :coffee: and topics that I learn throug
 		System.out.println(i);
 	}
 
-	~ 
+	~ cat
+	~ dog
+	~ rat
+	~ bird
 
 ```
 
