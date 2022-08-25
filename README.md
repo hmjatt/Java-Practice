@@ -382,7 +382,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - Create a program to practice `2D ArrayList` in Java.
 
-- [YouTube (Java ArrayList)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=20)
+- [YouTube (Java 2D ArrayList)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=20)
 
 ```
 // 2D ArrayList = dynamic list of lists and size of lists can be changed during
@@ -413,6 +413,36 @@ This project is created to practice Java :coffee: and topics that I learn throug
 ```
 
 <hr>
+
+### 21. Java for-each loop 🔃
+
+- Create a program to learn about `for-each loop 🔃` in Java.
+
+- [YouTube (Java for-each loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=21)
+
+```
+// for-each = traversing technique to iterate through the elements in an array/collection
+// pros = less steps, more readable 
+// cons = less flexible
+		
+	//String[] animals = {"cat","dog","rat","bird"};
+	ArrayList<String> animals = new ArrayList<String>();
+	
+	animals.add("cat");
+	animals.add("dog");
+	animals.add("rat");
+	animals.add("bird");
+	
+	for(String i : animals) {
+		System.out.println(i);
+	}
+
+	~ 
+
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
