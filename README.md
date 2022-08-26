@@ -446,6 +446,38 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
+### 22. Java methods 📞
+
+- Create a program to implement `Methods` in Java.
+
+- [YouTube (Java methods 📞)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=22)
+
+```
+public static void main(String[] args) {
+	
+	// method = a block of code that is executed whenever it is called upon
+	
+	int x = 3;
+	int y = 4;
+	
+	int z = add(x,y);
+
+	System.out.println(z);
+}
+
+static int add(int x, int y) {
+	
+	int z = x + y;
+	return z;
+	
+}
+
+~ 7
+
+```
+
+<hr>
+
 #### Quote
 
     “If you always put limit on everything you do, physical or anything else.
