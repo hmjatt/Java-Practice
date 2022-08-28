@@ -378,7 +378,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
-### 20. Java 2D ArrayList 📜
+### 20. 2D ArrayList 📜
 
 - Create a program to practice `2D ArrayList` in Java.
 
@@ -414,7 +414,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
-### 21. Java for-each loop 🔃
+### 21. For-each loop 🔃
 
 - Create a program to learn about `for-each loop 🔃` in Java.
 
@@ -446,7 +446,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 <hr>
 
-### 22. Java methods 📞
+### 22. Methods 📞
 
 - Create a program to implement `Methods` in Java.
 
@@ -478,7 +478,7 @@ static int add(int x, int y) {
 
 <hr>
 
-### 23. Java Overloaded Methods ☎️
+### 23. Overloaded Methods ☎️
 
 - Create a program to practice `Overloaded Methods` in Java.
 
