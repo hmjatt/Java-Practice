@@ -544,20 +544,20 @@ static double add(double a, double b, double c, double d) {
 	int myInt = 50;
 	double myDouble = 1000;
 		
-	// [conversion-character]
-	//System.out.printf("%b",myBoolean);
-	//System.out.printf("%c",myChar);
-	//System.out.printf("%s",myString);
-	//System.out.printf("%d",myInt);
-	//System.out.printf("%f",myDouble);
+	// [conversion-character]	"\n" is to print next statement on a new line
+	System.out.printf("%b\n",myBoolean);
+	System.out.printf("%c\n",myChar);
+	System.out.printf("%s\n",myString);
+	System.out.printf("%d\n",myInt);
+	System.out.printf("%f\n",myDouble);
 	
 	//[width]
 	// minimum number of characters to be written as output
-	//System.out.printf("Hello %10s",myString);
+	System.out.printf("Hello %10s\n",myString);
 	
 	//[precision]
 	// sets number of digits of precision when outputting floating-point values
-	//System.out.printf("You have this much money %.1f",myDouble);
+	System.out.printf("You have this much money %.1f\n",myDouble);
 	
 	// [flags]
 	// adds an effect to output based on the flag added to format specifier
@@ -566,10 +566,16 @@ static double add(double a, double b, double c, double d) {
 	// 0 : numeric values are zero-padded
 	// , : comma grouping separator if numbers > 1000
 	
-	//System.out.printf("You have this much money %,f",myDouble);	
+	System.out.printf("You have this much money %,f",myDouble);
 
-~ 
-~ 
+~ true
+~ @
+~ Bro
+~ 50
+~ 1000.000000
+~ Hello        Bro
+~ You have this much money 1000.0
+~ You have this much money 1,000.000000
 
 ```
 
