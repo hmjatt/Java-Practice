@@ -62,7 +62,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Arithmetic Expressions in Java)](https://www.youtube.com/watch?v=wAEPokhj5Q4&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=5)
 
-	```
+	```java
 	expression = operands & operators
 	operands = values, variables, numbers, quantity
 	operators = + - * / %
@@ -110,7 +110,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java if statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=9)
 
-```
+```java
 // if statement = performs a block of code if it's condition evaluates to be true
 		
 		int age = 75;
@@ -137,7 +137,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java switch statements)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=10)
 
-```
+```java
 // switch = statement that allows a variable to be tested for equality against a list of values
 			
 	String day = "Friday";
@@ -169,7 +169,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java logical operators)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=11)
 
-```
+```java
 //	logical operators = used to connect two or more expressions
 
 	&& = (AND) both conditions must be true
@@ -185,7 +185,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java while loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=12)
 
-```
+```java
 // for loop = executes a block of code a limited amount of times
 		
 	for(int i=10; i>=0; i--) {
@@ -202,7 +202,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java for loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=13)
 
-```
+```java
 // while loop = executes a block of code as long as a it's condition remains true
 
 	//while `name field` is *blank* keep asking user for their name
@@ -220,7 +220,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java nested loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=14)
 
-```
+```java
 // nested loops = a loop inside of a loop
 		
 	Scanner scanner = new Scanner(System.in);
@@ -251,7 +251,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java arrays)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=15)
 
-```
+```java
 // array = used to store multiple values within a single variable
 	
 	String[] cars = new String[3];
@@ -269,7 +269,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java 2D arrays)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=16)
 
-```
+```java
 // 2D array = an array of arrays(Multi-dimentional Array)
 		
 	String[][] cars = 	{	
@@ -299,7 +299,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java 2D arrays)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=17)
 
-```
+```java
 // String = a reference data type that can store one or more characters
 // reference data types have access to useful methods
   
@@ -326,7 +326,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java wrapper classes)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=18)
 
-```
+```java
 // wrapper class = 	provides a way to use primitive data types as reference data types
 //					reference data types contain useful methods
 //					can be used with collections (ex.ArrayList)
@@ -356,7 +356,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java ArrayList)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=19)
 
-```
+```java
 // ArrayList = 	a resizable array. 
 	//				Elements can be added and removed after compilation phase
 	//				store reference data types
@@ -384,7 +384,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java 2D ArrayList)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=20)
 
-```
+```java
 // 2D ArrayList = dynamic list of lists and size of lists can be changed during
 // runtime
 
@@ -420,7 +420,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java for-each loop)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=21)
 
-```
+```java
 // for-each = traversing technique to iterate through the elements in an array/collection
 // pros = less steps, more readable 
 // cons = less flexible
@@ -452,7 +452,7 @@ This project is created to practice Java :coffee: and topics that I learn throug
 
 - [YouTube (Java methods 📞)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=22)
 
-```
+```java
 public static void main(String[] args) {
 	
 	// method = a block of code that is executed whenever it is called upon
@@ -484,7 +484,7 @@ static int add(int x, int y) {
 
 - [YouTube (Java Overloaded Methods ☎️)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=23)
 
-```
+```java
 public static void main(String[] args) {
 
 // overloaded methods = methods that share the same name but have different parameters
@@ -533,7 +533,7 @@ static double add(double a, double b, double c, double d) {
 
 - [YouTube (Java printf 🖨️)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=24)
 
-```
+```java
 // printf() = 	an optional method to control, format, and display text to the console window
 //				two arguments = format string + (object/variable/value)
 //				% [flags] [precision] [width] [conversion-character]
@@ -576,6 +576,26 @@ static double add(double a, double b, double c, double d) {
 ~ Hello        Bro
 ~ You have this much money 1000.0
 ~ You have this much money 1,000.000000
+
+```
+
+<hr>
+
+### 25. Final keyword ⛔
+
+- Create a program to implement `Final keyword` in Java.
+
+- [YouTube (Final keyword ⛔)](https://www.youtube.com/watch?v=MY03bt_0JQI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=25)
+
+```java
+public static void main(String[] args) {
+	final double PI = 3.14159;
+	//PI = 4;  //You can't change a final variable
+	System.out.println(PI);
+}
+
+~ 3.14159
+
 
 ```
 
